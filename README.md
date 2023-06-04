@@ -18,6 +18,10 @@ To run the following app run the following command:
 
 node index.js
 
+## Walkthrough Video:
+
+Link: https://drive.google.com/file/d/1X76WR5ZmShV4hNWR1TPWi5YehggxYS9x/view?usp=sharing
+
 
 ## Contact Information
 
